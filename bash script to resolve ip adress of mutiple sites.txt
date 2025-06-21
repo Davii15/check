@@ -1,0 +1,56 @@
+ash Script to Resolve Multiple Domains
+bash
+Copy
+Edit
+#!/bin/bash
+
+# File: resolve_domains.sh
+
+echo "Resolving domain names to IP addresses..."
+echo ""
+
+# List of domains (you can edit this list)
+domains=(
+    example.ac.ke
+    kenet.or.ke
+    ecitizen.go.ke
+    safaricom.co.ke
+    google.com
+)
+
+# Loop through each domain and resolve
+for domain in "${domains[@]}"; do
+    ip=$(dig +short "$domain" | grep -E '^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$' | head -n 1)
+    if [ -n "$ip" ]; then
+        echo "$domain resolves to $ip"
+    else
+        echo "$domain could not be resolved or has no A record"
+    fi
+done
+✅ How to Use
+Save the code in a file called resolve_domains.sh:
+
+bash
+Copy
+Edit
+nano resolve_domains.sh
+Paste the script, then:
+
+Make the script executable:
+
+bash
+Copy
+Edit
+chmod +x resolve_domains.sh
+Run the script:
+
+bash
+Copy
+Edit
+./resolve_domains.sh
+🧠 What This Script Does:
+Loops through a list of domain names.
+
+Uses dig to resolve their A (IPv4) records.
+
+Prints the result neatly.

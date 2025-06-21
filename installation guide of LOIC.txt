@@ -1,0 +1,203 @@
+**Title: Compiling and Running LOIC on Kali Linux (2023)**
+
+---
+
+**Overview:**
+This guide walks you through compiling the LOIC (Low Orbit Ion Cannon) DDoS testing tool from source on a Kali Linux 2023 system using Mono. LOIC is strictly for testing within controlled environments.
+
+---
+
+### Prerequisites:
+
+* Kali Linux (2023 or later)
+* Internet access (temporarily enable NAT or Bridged mode in VirtualBox)
+* Git and Mono installed
+
+---
+
+### Step 1: Update Kali Linux
+
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+
+> **Note:** If you encounter a public key error, run:
+
+```bash
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <MISSING-KEY-ID>
+```
+
+Replace `<MISSING-KEY-ID>` with the actual key ID provided in the error.
+
+---
+
+### Step 2: Install Required Packages
+
+```bash
+sudo apt install git mono-complete -y
+```
+
+---
+
+### Step 3: Clone the LOIC GitHub Repository
+
+```bash
+git clone https://github.com/NewEraCracker/LOIC.git
+cd LOIC
+```
+
+---
+
+### Step 4: Compile LOIC
+
+```bash
+xbuild LOIC.sln
+```
+
+> Output will be saved in:
+> `LOIC/bin/Debug/LOIC.exe` (or Release depending on config)
+
+---
+
+### Step 5: Run LOIC
+
+```bash
+cd bin/Debug
+mono LOIC.exe
+```
+
+---
+
+### Optional: Hivemind Mode (IRC)
+
+To start LOIC in Hivemind mode:
+
+```bash
+mono LOIC.exe /hivemind irc.example.com
+```
+
+To run without GUI (headless):
+
+```bash
+mono LOIC.exe /hidden /hivemind irc.example.com
+```
+
+---
+
+### Important Notes:
+
+* Do **not** use LOIC on public networks or external IPs without consent.
+* Use in isolated environments like OWASP Broken Web Apps or DVWA.
+* Only perform tests against machines you legally control.
+
+---
+
+
+ssuming you have Ubuntu/Debian:
+
+Download latest LOIC and extract.
+Open a terminal and type (without the parenthesis) “sudo apt-get install wine” and wait for it to finish.
+Type “wget http://www.kegel.com/wine/winetricks”.
+Type “sh winetricks” and from the GUI select dotnet20, and install it.
+Go to applications on your drop down and under Wine click on “Browse C: drive” then move the extracted LOIC to c:
+Now, go to the extracted file and right-click LOIC.exe and click properties.
+Go to permissions tab and check the box “Allow executing this file as program”.
+Right click file again and under open application, select wine.
+Addendum: Please refer to this issue for more recent instructions on getting wine installed on our system: LOIC#83
+
+Wine instructions doesnt work directly as it mentioned here it needs some improvements:
+
+There is Wine64 and Wine32 , apt install wine it will install wine64 because Debian and most distros deprecating/not using by default i386 architecture, so user need to specify the wine version.
+
+Better refer the user to install wine on debian from the official website of winehq:
+
+https://wiki.winehq.org/Debian
+
+(why do we need 32bit? because loic architecture is 32bit)
+
+🥇 Best Option: Download the Precompiled .exe
+Use the version from the original author’s archive, which is easier to run:
+
+NewEraCracker's LOIC GitHub
+
+Navigate to the Releases section or find a .zip with a ready-to-use LOIC.exe.
+
+Then use Wine on Kali:
+
+bash
+Copy
+Edit
+sudo apt install wine
+wine LOIC.exe
+ERROR, found the error the following packages have unmet depedencies :
+kali-desktop-xfce : Depedends : kali-desktop-core but it isn ot going to be installed 
+e: Error, pkgProblemResolver :: Resolve generated breaks, this may be caused by held packages
+
+
+ Step-by-Step Fix for “Unmet Dependencies” in Kali Linux
+1. Update and Upgrade First
+Run this to make sure all your package information is up-to-date:
+
+bash
+Copy
+Edit
+sudo apt update && sudo apt full-upgrade -y
+If you see any errors related to missing public keys, run:
+
+bash
+Copy
+Edit
+sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <KEY_ID>
+(Replace <KEY_ID> with the actual key in the error, like A1234...)
+
+2. Fix Broken/Held Packages
+Sometimes packages get "held" and block upgrades or installs.
+
+Run:
+
+bash
+Copy
+Edit
+sudo apt --fix-broken install
+sudo dpkg --configure -a
+sudo apt-mark showhold
+If any packages are listed as held, you can unhold them:
+
+bash
+Copy
+Edit
+sudo apt-mark unhold kali-desktop-core
+3. Try Installing Wine Again
+Now try installing Wine:
+
+bash
+Copy
+Edit
+sudo apt install wine -y
+Alternatively, install minimal Wine version:
+
+bash
+Copy
+Edit
+sudo apt install --install-recommends wine32 wine64 -y
+4. If Still Broken – Force Dependency Resolution
+As a last resort, force it:
+
+bash
+Copy
+Edit
+sudo aptitude install wine64
+(Aptitude is more intelligent than apt and can offer solutions. If it’s not installed, run sudo apt install aptitude first.)
+
+Let me know the exact point where it fails if you still see errors. I can walk you through alternative routes or prepare a minimal Wine .deb installer./
+
+
+
+
+**Conclusion:**
+You now have LOIC compiled and running on Kali Linux 2023. Always use these tools ethically and legally for cybersecurity training, penetration testing, and research.
+
+---
+
+**Author:** ChatGPT & David (Cybersecurity Research Environment Setup)
+**Date:** June 2025

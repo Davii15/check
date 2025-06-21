@@ -1,0 +1,83 @@
+ Enhanced Domain Resolution Script
+bash
+Copy
+Edit
+#!/bin/bash
+
+# File: enhanced_domain_resolver.sh
+
+echo "Resolving domain information (A, AAAA, MX, NS)..."
+echo ""
+
+# List of domains to resolve
+domains=(
+    example.ac.ke
+    kenet.or.ke
+    ecitizen.go.ke
+    safaricom.co.ke
+    google.com
+)
+
+# Loop through each domain
+for domain in "${domains[@]}"; do
+    echo "🟢 Domain: $domain"
+
+    # A Record (IPv4)
+    a_record=$(dig +short A "$domain")
+    echo "  🌐 A (IPv4): ${a_record:-Not Found}"
+
+    # AAAA Record (IPv6)
+    aaaa_record=$(dig +short AAAA "$domain")
+    echo "  🧬 AAAA (IPv6): ${aaaa_record:-Not Found}"
+
+    # MX Records
+    mx_record=$(dig +short MX "$domain")
+    if [ -z "$mx_record" ]; then
+        echo "  📬 MX: Not Found"
+    else
+        echo "  📬 MX:"
+        echo "$mx_record" | sed 's/^/     - /'
+    fi
+
+    # NS Records
+    ns_record=$(dig +short NS "$domain")
+    if [ -z "$ns_record" ]; then
+        echo "  🛰 NS: Not Found"
+    else
+        echo "  🛰 NS:"
+        echo "$ns_record" | sed 's/^/     - /'
+    fi
+
+    echo ""
+done
+
+
+
+✅ How to Run:
+Save the script:
+
+bash
+Copy
+Edit
+nano enhanced_domain_resolver.sh
+Paste the code and save.
+
+Make it executable:
+
+bash
+Copy
+Edit
+chmod +x enhanced_domain_resolver.sh
+Run it:
+
+bash
+Copy
+Edit
+./enhanced_domain_resolver.sh
+📤 Optional: Save Output to a File
+You can save the results to a text file:
+
+bash
+Copy
+Edit
+./enhanced_domain_resolver.sh > results.txt

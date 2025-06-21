@@ -1,0 +1,526 @@
+Shared Servers (Multiple Subdomains):
+
+IP: 197.248.128.1 ns2 and ns1 41.203.208.129 and ns4 41.203.208.130
+
+  - automated.co.ke
+  - serena.co.ke
+  - comfund.co.ke
+  - oceanview.co.ke
+  - friendsoflaketurkana.org
+  - phidpoll.com
+  - gazlinenergy.co.ke
+  - bushnet.co.ke
+  - naisulaschool.ac.ke
+  - toshapetroleum.co.ke
+  - betacare.co.ke
+  - eastafricancanvas.com
+  - apollocentre.org
+  - ngongwelfarefund.co.ke
+  - eldocity.co.ke
+  - ncdaorg.com
+  - kizingosda.org
+  - crimeresearch.go.ke
+  - resolution.co.ke
+  - mareba.co.ke
+  - kenyaseed.co.ke
+  - landcommission.go.ke
+  - peppy.co.ke
+  - vicweb.net
+  - soleilintltd.com
+  - mpesafoundationacademy.ac.ke
+  - spaninstitute.ac.ke
+  - dawda.net
+  - gaussiansolutions.co.ke
+  - travelcare.co.ke
+  - christamariannefsj.org
+  - phyjos.com
+  - uhmc.co.ke
+  - himilogroup.com
+  - climacento.co.ke
+  - eastlandhotel.co.ke
+  - garnetaviation.com
+  - otl.co.ke
+  - intellitech.co.ke
+  - standrewsthika.or.ke
+  - kengeles.co.ke
+  - kerochebreweries.com
+  - skyleagueagencies.co.ke
+  - freeland-ltd.com
+  - samileng.co.ke
+  - simbool.com
+  - healthministry.org
+  - pioneerschools.ac.ke
+  - teeefeenterprises.com
+  - 247services.co.ke
+  - simbaweb.co.ke
+  - ideon.co.ke
+  - imaalltd.co.ke
+  - avenuehealthcare.com
+  - regisschool.co.ke
+  - goldenmarketing.co.ke
+  - jabalimicroserve.co.ke
+  - bluetrax.co.ke
+  - domains.safaricom.co.ke
+  - kccb.or.ke
+  - simbacolt.com
+  - qset.co.ke
+  - nephak.or.ke
+  - thewinecompany.co.ke
+  - highway-carriers.com
+  - sbckenya.com
+  - margliv.com
+  - cargen.com
+  - ncti.ac.ke
+  - tbm.co.ke
+  - plysaleskenya.com
+  - jambotravelhouse.co.ke
+  - kenyavetboard.or.ke
+  - pilosenkenya.com
+  - kippokenya.com
+  - dreamline.co.ke
+  - hnc.co.ke
+  - naiya.co.ke
+  - ellams.co.ke
+  - jitegemeetrust.co.ke
+  - skbm.org
+  - copycatltd.com
+  - techbay.co.ke
+  - revive-solutions.com
+  - techmindglobal.com
+  - quantech.co.ke
+  - savanaseeds.com
+  - civicom.org
+  - saw.co.ke
+  - wingsenterprise.co.ke
+  - bomet.co.ke
+  - m-equipments.com
+  - focusafaris.co.ke
+  - valencia-systems.com
+  - childafrica.com
+  - pastororengo.com
+  - kenplumbers.com
+  - integrity.go.ke
+  - jubileekenya.com
+  - sunafricahotels.com
+  - optimumtmc.com
+  - decodeit.co.ke
+  - gdc.co.ke
+  - kcaa.or.ke
+  - shavik.co.ke
+  - xflora.net
+  - azimasacco.co.ke
+  - blackwoodhodge.com
+  - platinummsa.com
+  - caritaskenya.org
+  - covernet.co.ke
+  - msea.go.ke
+  - elgeyomarakwet.go.ke
+  - unwired.co.ke
+  - patnar.co.ke
+  - tmdealer.co.ke
+  - africapartners.co.ke
+  - jumbospices.co.ke
+  - kenha.co.ke
+  - emigloenterprises.com
+  - quickmart.co.ke
+  - nijenta.com
+  - isiolo.go.ke
+  - sha.go.ke
+  - pentaglobal.co.ke
+  - sojpar.com
+  - ourusuperstores.com
+  - smartandroid.co.ke
+  - domegroupltd.co.ke
+  - kiffrey.com
+  - centralbank.go.ke
+  - rev.co.ke
+  - breezenet.co.ke
+  - nrh.co.ke
+  - jkf.co.ke
+  - xeanco.com
+  - kaiboitech.ac.ke
+  - smartautos.co.ke
+  - cheerycentre.org
+  - sentinelafrica.co.ke
+  - suvida.org
+  - theflowerpeople.co.ke
+  - capitalrealtime.co.ke
+  - cfpm.co.ke
+  - kplc.co.ke
+  - fulanasports.co.ke
+  - nca.go.ke
+  - infa-med.org
+  - adealventuretoursandtravel.com
+  - nphl.go.ke
+  - wasreb.go.ke
+  - bidco-oil.com
+  - bonvoyage.co.ke
+  - cumminscargen.com
+  - sunspot.co.ke
+  - npck.org
+  - finconsult.co.ke
+  - codicltd.co.ke
+  - mtkenyagroup.co.ke
+  - thevaluechain.co.ke
+  - nyamira.go.ke
+  - lowlandvegkenya.com
+  - malinghas.com
+  - swiperecoveries.com
+  - tanaqs.com
+  - koala.co.ke
+  - alicemwangi.com
+  - ncck.org
+  - zamiragroup.com
+  - metropol.co.ke
+  - hansel.co.ke
+  - zeussenterprise.com
+  - nemchem.co.ke
+  - expediters.co.ke
+  - eacc.go.ke
+  - hotelnokras.co.ke
+  - libertydimension.co.ke
+  - ga.co.ke
+  - lptechnology.co.ke
+  - westwoodkenya.com
+  - leathercouncil.go.ke
+  - stanmore.co.ke
+  - alphacom.co.ke
+  - kenyameat.co.ke
+  - avid.ke
+  - pmsl.co.ke
+  - technology21.co.ke
+  - topchoice.co.ke
+  - bounty.co.ke
+  - deltaauto.co.ke
+  - heccon.net
+  - batsacco.co.ke
+  - nandi.go.ke
+  - teams.co.ke
+  - naivas.co.ke
+  - mutomohospital.or.ke
+  - skyline.co.ke
+  - kimondogachoka.co.ke
+  - maraniafarm.com
+  - drink.co.ke
+  - acetechkenya.co.ke
+  - sarova.co.ke
+  - bashhauliers.co.ke
+  - tradestar.co.ke
+  - mzulia.com
+  - ngwae.com
+  - kiscj.ac.ke
+  - kipi.go.ke
+  - virtualhr.co.ke
+  - dallianinvestmentltd.co.ke
+  - ikonworkingsolutions.com
+  - wetlands.co.ke
+  - prestigestrategies.co.ke
+  - unes.co.ke
+  - barakaagricollege.ac.ke
+  - d4ai.org
+  - exoticfields.com
+  - creditbankltd.co.ke
+  - aatransportersltd.com
+  - murchem.com
+  - vickersecurity.com
+  - junglenuts.co.ke
+  - automated.co.ke
+  - serena.co.ke
+  - comfund.co.ke
+
+IP: 197.248.128.2 ns3 and ns2 197.248.128.1
+
+  - rizikifresh.co.ke
+  - soulsafaris.com
+  - xios.co.ke
+  - azmood.com
+  - versatraders.com
+  - quadrantshift.co.ke
+  - tmd.co.ke
+  - wpa.go.ke
+  - globalexpressline.co.ke
+  - firearms.or.ke
+  - kilifiwater.co.ke
+  - saipeifoods.co.ke
+  - servicenas.com
+  - bazemusic.co.ke
+  - vvarks.com
+  - signaturehealthcareltd.co.ke
+  - fidipa.org
+  - decimal.co.ke
+  - micro-capholdings.co.ke
+  - optimumtmc.com
+  - decodeit.co.ke
+  - gdc.co.ke
+  - kcaa.or.ke
+  - shavik.co.ke
+  - xflora.net
+  - azimasacco.co.ke
+  - blackwoodhodge.com
+  - platinummsa.com
+  - caritaskenya.org
+  - covernet.co.ke
+  - msea.go.ke
+  - elgeyomarakwet.go.ke
+  - unwired.co.ke
+  - patnar.co.ke
+  - tmdealer.co.ke
+  - africapartners.co.ke
+  - jumbospices.co.ke
+  - kenha.co.ke
+  - emigloenterprises.com
+  - quickmart.co.ke
+  - nijenta.com
+  - isiolo.go.ke
+  - sha.go.ke
+  - pentaglobal.co.ke
+  - sojpar.com
+  - ourusuperstores.com
+  - smartandroid.co.ke
+  - domegroupltd.co.ke
+  - kiffrey.com
+  - centralbank.go.ke
+  - rev.co.ke
+  - breezenet.co.ke
+  - nrh.co.ke
+  - jkf.co.ke
+  - xeanco.com
+  - kaiboitech.ac.ke
+  - smartautos.co.ke
+  - cheerycentre.org
+  - sentinelafrica.co.ke
+  - suvida.org
+  - theflowerpeople.co.ke
+  - capitalrealtime.co.ke
+  - cfpm.co.ke
+  - kplc.co.ke
+  - fulanasports.co.ke
+  - nca.go.ke
+  - infa-med.org
+  - adealventuretoursandtravel.com
+  - nphl.go.ke
+  - wasreb.go.ke
+  - bidco-oil.com
+  - bonvoyage.co.ke
+  - cumminscargen.com
+  - sunspot.co.ke
+  - npck.org
+  - finconsult.co.ke
+  - codicltd.co.ke
+  - mtkenyagroup.co.ke
+  - thevaluechain.co.ke
+  - nyamira.go.ke
+  - lowlandvegkenya.com
+  - malinghas.com
+  - swiperecoveries.com
+  - tanaqs.com
+  - koala.co.ke
+  - alicemwangi.com
+  - ncck.org
+  - zamiragroup.com
+  - metropol.co.ke
+  - hansel.co.ke
+  - zeussenterprise.com
+  - nemchem.co.ke
+  - expediters.co.ke
+  - eacc.go.ke
+  - hotelnokras.co.ke
+  - libertydimension.co.ke
+  - ga.co.ke
+  - lptechnology.co.ke
+  - westwoodkenya.com
+  - leathercouncil.go.ke
+  - stanmore.co.ke
+  - alphacom.co.ke
+  - kenyameat.co.ke
+  - avid.ke
+  - pmsl.co.ke
+  - technology21.co.ke
+  - topchoice.co.ke
+  - bounty.co.ke
+  - deltaauto.co.ke
+  - heccon.net
+  - batsacco.co.ke
+  - nandi.go.ke
+  - teams.co.ke
+  - naivas.co.ke
+  - mutomohospital.or.ke
+  - skyline.co.ke
+  - kimondogachoka.co.ke
+  - maraniafarm.com
+  - drink.co.ke
+  - acetechkenya.co.ke
+  - sarova.co.ke
+  - bashhauliers.co.ke
+  - tradestar.co.ke
+  - mzulia.com
+  - ngwae.com
+  - kiscj.ac.ke
+  - kipi.go.ke
+  - virtualhr.co.ke
+  - dallianinvestmentltd.co.ke
+  - ikonworkingsolutions.com
+  - wetlands.co.ke
+  - prestigestrategies.co.ke
+  - unes.co.ke
+  - barakaagricollege.ac.ke
+  - d4ai.org
+  - exoticfields.com
+  - creditbankltd.co.ke
+  - aatransportersltd.com
+  - murchem.com
+  - vickersecurity.com
+  - junglenuts.co.ke
+  - automated.co.ke
+  - serena.co.ke
+  - comfund.co.ke
+
+IP: 41.203.208.130. ns4  and ns2 197.248.128.1
+
+  - landcommission.go.ke
+  - peppy.co.ke
+  - vicweb.net
+  - soleilintltd.com
+  - mpesafoundationacademy.ac.ke
+  - spaninstitute.ac.ke
+  - dawda.net
+  - gaussiansolutions.co.ke
+  - travelcare.co.ke
+  - christamariannefsj.org
+  - phyjos.com
+  - uhmc.co.ke
+  - himilogroup.com
+  - climacento.co.ke
+  - eastlandhotel.co.ke
+  - garnetaviation.com
+  - otl.co.ke
+  - intellitech.co.ke
+  - standrewsthika.or.ke
+  - kengeles.co.ke
+  - kerochebreweries.com
+  - skyleagueagencies.co.ke
+  - freeland-ltd.com
+  - samileng.co.ke
+  - simbool.com
+  - healthministry.org
+  - pioneerschools.ac.ke
+  - teeefeenterprises.com
+  - 247services.co.ke
+  - simbaweb.co.ke
+  - ideon.co.ke
+  - imaalltd.co.ke
+  - avenuehealthcare.com
+  - regisschool.co.ke
+  - goldenmarketing.co.ke
+  - jabalimicroserve.co.ke
+  - bluetrax.co.ke
+  - domains.safaricom.co.ke
+  - kccb.or.ke
+  - simbacolt.com
+  - qset.co.ke
+  - nephak.or.ke
+  - thewinecompany.co.ke
+  - highway-carriers.com
+  - sbckenya.com
+  - margliv.com
+  - cargen.com
+  - ncti.ac.ke
+  - tbm.co.ke
+  - plysaleskenya.com
+  - jambotravelhouse.co.ke
+  - kenyavetboard.or.ke
+  - pilosenkenya.com
+  - kippokenya.com
+  - dreamline.co.ke
+  - hnc.co.ke
+  - naiya.co.ke
+  - ellams.co.ke
+  - jitegemeetrust.co.ke
+  - skbm.org
+  - copycatltd.com
+  - techbay.co.ke
+  - revive-solutions.com
+  - techmindglobal.com
+  - quantech.co.ke
+  - savanaseeds.com
+  - civicom.org
+  - saw.co.ke
+  - wingsenterprise.co.ke
+  - mtapangaagencies.co.ke
+  - bomet.co.ke
+  - m-equipments.com
+  - focusafaris.co.ke
+  - valencia-systems.com
+  - childafrica.com
+  - pastororengo.com
+  - kenplumbers.com
+  - integrity.go.ke
+  - jubileekenya.com
+  - sunafricahotels.com
+  - togetherasone.co.ke
+  - crakenya.org
+  - raisons.co.ke
+  - abbas.co.ke
+  - bruceamani.com
+  - onfongroup.com
+  - b2bconsulting.co.ke
+  - kibondeni.ac.ke
+  - m-pesaforbusiness.co.ke
+  - jumbochem.co.ke
+  - transatlanticholdingsltd.com
+  - adskenya.org
+  - chrystalcleans.com
+  - iagegroup.com
+  - aeromarine-kenya.com
+  - cbabank.net
+  - valepz.com
+  - smartcode.co.ke
+  - digitalleo.co.ke
+  - noortea.com
+
+
+Unique Servers (Single Subdomain):
+{
+  "shared_domains_across_multiple_ips": {
+    "optimumtmc.com": ["41.203.208.129", "197.248.128.1"],
+    "decodeit.co.ke": ["41.203.208.129", "197.248.128.1"],
+    "kenyaseed.co.ke": ["197.248.128.1", "197.248.128.2"],
+    "automated.co.ke": ["41.203.208.129", "197.248.128.1"],
+    "serena.co.ke": ["41.203.208.129", "197.248.128.1"],
+    "comfund.co.ke": ["41.203.208.129", "197.248.128.1"],
+    "platinummsa.com": ["197.248.128.2", "41.203.208.129"],
+    "covernet.co.ke": ["197.248.128.2", "41.203.208.129"],
+    "centralbank.go.ke": ["197.248.128.2", "41.203.208.129"],
+    "npck.org": ["197.248.128.2", "41.203.208.129"]
+  },
+  "unique_domains_per_ip": {
+    "41.203.208.129": [
+      "rev.co.ke",
+      "gdc.co.ke",
+      "cfpm.co.ke",
+      "koala.co.ke",
+      "kenyameat.co.ke",
+      "serena.co.ke"
+    ],
+    "197.248.128.2": [
+      "quickmart.co.ke",
+      "breezenet.co.ke",
+      "sha.go.ke",
+      "kaiboitech.ac.ke",
+      "rev.co.ke"
+    ],
+    "197.248.128.1": [
+      "gazlinenergy.co.ke",
+      "ngongwelfarefund.co.ke",
+      "naisulaschool.ac.ke",
+      "mareba.co.ke"
+    ],
+    "41.203.208.130": [
+      "simbool.com",
+      "healthministry.org",
+      "cargen.com",
+      "valencia-systems.com",
+      "childafrica.com"
+    ]
+  }
+}

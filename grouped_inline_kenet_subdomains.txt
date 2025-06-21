@@ -1,0 +1,6 @@
+Shared Servers (Multiple Subdomains):
+
+
+Unique Servers (Single Subdomain):
+
+IP: 41.204.160.1. -> gretsauniversity.ac.ke
